@@ -1,3 +1,4 @@
 # RepoProyectoSistemas2-Datalan
 Repositorio para el proyecto de Datalan
-Dxtr
+* Dxtr
+* Anita
